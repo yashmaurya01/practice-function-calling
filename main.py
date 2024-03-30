@@ -593,7 +593,7 @@ function_template2 = [
 					"properties": {
                         "better_dialogue": {
                             "type": "string",
-                            "description": f"If the current dialogue is already perfect, return 'None'. Keep it concise and be lenient. Considering that the conversation is {info['conversation_info']['tone']}, return the better dialogue that Speaker 0 could have said while conveying the same idea as current dialogue. This should be a more appropriate response to the current dialogue. Keep the response natural. ",
+                            "description": f"If the current dialogue is already perfect, return 'None'. Keep it concise and be lenient. Considering that the conversation is {info['conversation_info']['tone']}, return the better dialogue that Speaker 0 could have said while conveying the same idea as current dialogue. Keep the response natural. ",
                             },
                         "reasoning": {
                             "type": "string",
