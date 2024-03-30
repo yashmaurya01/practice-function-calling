@@ -1,0 +1,7 @@
+{'conversation_info': {'tone': 'informal', 'theme': {'main_theme': 'Travel', 'sub_themes': ['Vacation', 'Cost', 'Planning']}}}
+Summary: 
+The conversation summary is not available as there is no specific conversation provided. If you have a specific conversation or topic in mind, please feel free to share it and I'd be happy to provide a summary.
+Previous conversation: 
+
+Current dialogue: 
+Speaker 0: Say it again.
